@@ -1,6 +1,6 @@
 ## Hello World
 
-- 💬 About me: Web, Game, App Developer
+- 💬 About me: Web Developer
 - ⚡ Fun fact: how did it work?
 
 <div align="center">
