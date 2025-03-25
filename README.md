@@ -1,6 +1,6 @@
 ## Hello World
 
-- 💬 About me: Web Developer
+- 💬 About me: Hello, I am a full stack developer and from now on I will be sharing with you my codes, some old, some newer.
 - ⚡ Fun fact: how did it work?
 
 <div align="center">
