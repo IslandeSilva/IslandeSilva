@@ -18,7 +18,7 @@ My Skills
 [Development]
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,php,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,php,kotlin" />
 </a>
 
 
