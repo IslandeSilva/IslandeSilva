@@ -9,10 +9,16 @@ I'm currently working on IoT projects and dashboard development.
 
 My Skills
 
-Cloud
+[Cloud]
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+</a>
+
+[Development]
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,node,php,kotlin,java" />
 </a>
 
 
