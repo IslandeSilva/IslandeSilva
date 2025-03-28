@@ -10,8 +10,8 @@ I'm currently working on IoT projects and dashboard development.
 My Skills
 
 Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+</a>
+
+
