@@ -27,9 +27,5 @@ My Skills
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind," />
 </a>
 
-[WebServers]
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=iis,apache,nginx" />
-</a>
+And others stuffs
 
