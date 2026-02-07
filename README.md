@@ -37,5 +37,5 @@ Engenheiro de Software com 10+ anos de experiência na área de tecnologia. Minh
 ---
 
 ### 📬 Contato
-- **LinkedIn:** [linkedin.com/in/islandesilva](https://linkedin.com/in/islandefs)
+- **LinkedIn:** [linkedin.com/in/islandefs](https://linkedin.com/in/islandefs)
 - **E-mail:** islandefs@gmail.com
